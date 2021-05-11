@@ -1,1 +1,2 @@
 archivoRecomendaciones.txt
+Esto se esta editando desde GitHub
